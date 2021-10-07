@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RMI003">
+    <output-path>$PROJECT_DIR$/out/artifacts/RMI003</output-path>
+    <root id="archive" name="RMI003.jar">
+      <element id="module-output" name="RMI003" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UDP002">
+    <output-path>$PROJECT_DIR$/out/artifacts/UDP002</output-path>
+    <root id="archive" name="UDP002.jar">
+      <element id="module-output" name="UDP002" />
+    </root>
+  </artifact>
+</component>
